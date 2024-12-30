@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-![image](https://cultura.sc.gov.br/images/noticias/2024/Abr/Totoro_02.jpg)
 
 <!--
+![image](https://cultura.sc.gov.br/images/noticias/2024/Abr/Totoro_02.jpg)
+
 **Gui-labreu/Gui-labreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
